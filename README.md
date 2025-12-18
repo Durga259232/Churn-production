@@ -39,4 +39,6 @@ Active vs Expired Members at a glance
 High / Medium / Low Churn Risk classification
 Trainer workload and assignment overview
 Retention recommendation completion status
-Workout plan completion metrics to evaluate member engagement
+Workout plan completion metrics to evaluate member engagement.
+
+Demo video link:https://drive.google.com/file/d/1WXKcRahN4WXjt2g7EkG5h4UzMZh0Pf1_/view?usp=sharing
